@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on 江南的风</title>
+    <link>http://coolnaning.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on 江南的风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Dec 2016 21:45:34 +0800</lastBuildDate>
+    <atom:link href="http://coolnaning.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016 12 07 first</title>
+      <link>http://coolnaning.github.io/post/2016-12-07-first/</link>
+      <pubDate>Wed, 07 Dec 2016 21:45:34 +0800</pubDate>
+      
+      <guid>http://coolnaning.github.io/post/2016-12-07-first/</guid>
+      <description>
+
+&lt;h4 id=&#34;bursting-soon&#34;&gt;bursting soon&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
